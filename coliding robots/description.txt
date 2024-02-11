@@ -1,0 +1,5 @@
+there are N robots in a line every one has a [health, direction] property. health is a positive integer
+and direction can either be 0 for left or 1 for right. all robots start at same time and have same speed.
+if two robot colide with each other health of both of them get reduced by other ones health and
+if a robot's health drops below zero that robot gets eliminated. robots never change direction.
+now the task is to calculate who will survive at last.
